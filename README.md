@@ -6,7 +6,7 @@ Easy发票查验软件是一款支持批量发票查验的客户端软件。它�
     
 软件下载地址：
 
-http://easy-invoice.cn/
+https://easy-invoice.cn/
 
 ![1](https://user-images.githubusercontent.com/18705172/232651548-6f73a0be-9b25-4661-9be2-28d1650eb63a.png)
 ![2](https://user-images.githubusercontent.com/18705172/232651559-8d53a21d-7bec-4907-b635-256b7574769d.png)
